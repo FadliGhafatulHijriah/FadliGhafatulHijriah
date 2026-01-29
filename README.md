@@ -1,5 +1,7 @@
 ## Hi there! Im Fadli Ghafatul Hijriah👋
 
+![Fadli Ghafatul Hijriah](img/Github-Border-1.jpg.png)
+
 <!--
 **FadliGhafatulHijriah/FadliGhafatulHijriah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
